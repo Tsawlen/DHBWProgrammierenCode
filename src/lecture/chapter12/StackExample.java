@@ -8,9 +8,9 @@ public class StackExample {
 
         myNameStack.push("Hans");
         myNameStack.push("Saber");
-        myNameStack.push("Akeno");
+        myNameStack.push("Mai Sakurajima");
         myNameStack.peek();
-        myNameStack.push("Rias Gremory");
+        myNameStack.push("Rias");
         myNameStack.peek();
 
         System.out.println(myNameStack.pop());

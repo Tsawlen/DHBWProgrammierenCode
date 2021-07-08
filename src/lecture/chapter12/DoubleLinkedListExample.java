@@ -36,7 +36,7 @@ public class DoubleLinkedListExample {
 
         myNameList.print();
 
-        myNameList.addLast("Rias Gremory");
+        myNameList.addLast("Mai Sakurajima");
 
         myNameList.print();
 

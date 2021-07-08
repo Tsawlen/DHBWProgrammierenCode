@@ -12,8 +12,8 @@ public class QueueExample {
         myNameQueue.enqueue("Hans");
         myNameQueue.enqueue("Asuna");
         myNameQueue.enqueue("Kirito");
-        myNameQueue.enqueue("Rias Gremory");
-        myNameQueue.enqueue("Akeno");
+        myNameQueue.enqueue("Rias");
+        myNameQueue.enqueue("Mai Sakurajima");
 
         System.out.println(myNameQueue.dequeue());
         System.out.println(myNameQueue.dequeue());
